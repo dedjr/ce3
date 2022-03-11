@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC8a3292430a3cE9e1687d3E68562893893581e2e",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc8a3292430a3ce9e1687d3e68562893893581e2e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cat Expressions NFT",
+  "SYMBOL": "CE",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 25000000000000000,
+  "DISPLAY_COST": 0.025,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cat-expressions-v2",
+  "SHOW_BACKGROUND": true
+}
